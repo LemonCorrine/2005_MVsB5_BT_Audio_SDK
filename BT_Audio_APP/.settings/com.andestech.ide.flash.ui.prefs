@@ -1,0 +1,2 @@
+RseFlashDriverModel=<?xml version\="1.0" encoding\="UTF-8" standalone\="yes"?><rseFlashDriverModel><addr>0x0</addr><eraseAll>true</eraseAll><flashDriver>mv_download_bp1x_v3.5.exe</flashDriver><imageFile>E\:/b555/MVsB5_BT_Audio_SDK_V0.9.1/BT_Audio_APP/Release/output/main_merge.MVA</imageFile><lock>false</lock><unlock>false</unlock><verify>false</verify></rseFlashDriverModel>
+eclipse.preferences.version=1
