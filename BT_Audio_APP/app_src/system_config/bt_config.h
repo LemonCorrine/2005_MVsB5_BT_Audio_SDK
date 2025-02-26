@@ -70,8 +70,8 @@
  * 2.BLE的名称修改在ble广播数据中体现(ble_app_func.c)
  *****************************************************************/
 //#include "bt_name.h"
-#define BT_NAME						"BP15_BT"
-#define BLE_NAME					"BP15_BLE"
+#define BT_NAME						"BP15_BT_Lemon"
+#define BLE_NAME					"BP15_BLE_Lemon"
 
 //蓝牙发射功率配置
 /* Rf Tx Power Range, max:7dbm, step:1dbm/step
@@ -201,7 +201,7 @@ enum
 /*****************************************************************
  * AVRCP profile
  *****************************************************************/
-#define BT_AVRCP_VOLUME_SYNC			(0)		//音量同步功能开关
+#define BT_AVRCP_VOLUME_SYNC			(1)		//音量同步功能开关
 
 //(eg:EQ/repeat mode/shuffle/scan configuration)
 #define BT_AVRCP_PLAYER_SETTING			(0)		//歌曲的循环模式(只支持苹果手机自带播放器)
